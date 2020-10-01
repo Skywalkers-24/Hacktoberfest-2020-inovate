@@ -1,1 +1,1 @@
-Give any standard C++ program.
+Give any standard C++/Java/Python/C/Javascript etc. programs.
