@@ -1,3 +1,7 @@
+
+Welcome To Hacktoberfest 2020
+Give any standard C++/Java/Python/C/Javascript etc. programs.
+
 # Star this Repo first
 
 # Hacktoberfest2020---its a very good project and get a free tshirt.
@@ -38,5 +42,6 @@ _Do not use special characters in the template above._
 ## 4. Wait for Pull Request to merge
 
 ## 5. Celebrate - you've done your first pull request!!
+
 
 
