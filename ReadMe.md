@@ -31,10 +31,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 ## Write any program in your favourie language.
 
 
-name: Michael
-institution: pqrst
-github: michael27
-```
+
 
 _Do not use special characters in the template above._
 
